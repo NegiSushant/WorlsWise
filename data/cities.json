@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Modinagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-06T11:10:56.042Z",
+      "notes": "Kiet",
+      "position": {
+        "lat": "28.753967996632564",
+        "lng": "77.49579541878838"
+      },
+      "id": 98443199
+    }
+  ]
+}
